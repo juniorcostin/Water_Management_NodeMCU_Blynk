@@ -1,6 +1,6 @@
 //Inicialização do Blynk
 #define BLYNK_PRINT Serial
-#define BLYNK_TEMPLATE_ID  "TMPLZ5-Cy9pe"
+#define BLYNK_TEMPLATE_ID  "********"
 
 //Bibliotecas
 #include <ESP8266WiFi.h> //ESP8266
@@ -8,9 +8,9 @@
 #include<HCSR04.h> //Sensor Ultrasônico
 
 //Valriáveis
-char auth[] = "Jd-RFW5jXg8f3nv383zJCZ2-C0iFeIKL"; //Token para comunicação com o Blynk
-char ssid[] = "Costin 2.4G"; //Nome da rede que deve se conectar
-char pass[] = "63021922"; //Senha da rede que deve se conectar
+char auth[] = "******"; //Token para comunicação com o Blynk
+char ssid[] = "*******"; //Nome da rede que deve se conectar
+char pass[] = "********"; //Senha da rede que deve se conectar
 
 
 //Definições
